@@ -1,1 +1,2 @@
-# force-scala-lib-sample
+# force-scala-lib-wave-sample
+Force.com Scala sample for Wave
